@@ -22,6 +22,7 @@
     "dev": "vite",
     "build": "npx vite build && npx tsc -p tsconfig.json",
     "preview": "vite -c vite.config.preview.ts",
+    "build:preview": "npx vite build --config vite.config.preview.ts",
     "prepublishOnly": "npm run build",
     "lint": "eslint ."
   },
