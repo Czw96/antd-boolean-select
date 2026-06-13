@@ -1,0 +1,14 @@
+node_modules/
+src/
+preview/
+vite.config.ts
+vite.config.preview.ts
+tsconfig.json
+eslint.config.js
+.prettierrc
+.git/
+.gitignore
+.vscode/
+.idea/
+*.map
+.DS_Store
