@@ -1,6 +1,7 @@
 {
   "name": "antd-boolean-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "An Ant Design Select wrapper for boolean values, with customizable true/false labels and configurable empty value behavior.",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
@@ -48,5 +49,22 @@
     "vite": "^8.0.12"
   },
   "license": "MIT",
-  "repository": "https://github.com/Czw96/antd-boolean-select.git"
+  "author": "Czw96",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Czw96/antd-boolean-select.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Czw96/antd-boolean-select/issues"
+  },
+  "homepage": "https://github.com/Czw96/antd-boolean-select#readme",
+  "keywords": [
+    "react",
+    "antd",
+    "ant-design",
+    "boolean",
+    "select",
+    "form",
+    "typescript"
+  ]
 }
