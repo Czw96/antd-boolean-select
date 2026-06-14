@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">antd-boolean-select</h1>
-  <p align="center">基于 Ant Design Select 封装的布尔值选择组件，为表单提供开箱即用的 "是/否" 选项。</p>
+  <p align="center">基于 Ant Design Select 封装的布尔值选择组件，为表单提供开箱即用的 "true/false" 选项。</p>
 </p>
 
 <p align="center">

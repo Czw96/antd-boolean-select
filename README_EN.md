@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">antd-boolean-select</h1>
-  <p align="center">A boolean selection component built on Ant Design Select, providing ready-to-use "Yes/No" options for forms.</p>
+  <p align="center">A boolean selection component built on Ant Design Select, providing ready-to-use "true/false" options for forms.</p>
 </p>
 
 <p align="center">
